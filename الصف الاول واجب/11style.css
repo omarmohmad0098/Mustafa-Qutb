@@ -1,0 +1,119 @@
+
+*{
+    margin: 0%;
+    scroll-behavior: smooth;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px ;
+    box-shadow: 0px 0px 17px black;
+}
+
+
+.اا{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 21px;
+    transition: 0.4s;
+}
+
+.اا:hover{
+    color: deepskyblue;
+}
+
+.كك{
+    text-decoration: none;
+    padding-left: 30px;
+    color: deepskyblue;
+    font-size: 25px;
+}
+
+.صص{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 21px;
+    transition: 0.4s;
+}
+
+.صص:hover{
+    color: deepskyblue;
+}
+
+/* .oo a{
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 26px;
+    color: white;
+    transition:0.4s ;
+}
+.oo a:hover{
+    color: blue;
+    
+} */
+
+
+
+p{
+    padding: 232px;
+    text-align: -webkit-center;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+.www{
+    
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 21px;
+    transition: 0.4s;
+}
+
+.www:hover{
+    color: deepskyblue;
+}
+
+@media (max-width:1023px) {
+    header{
+        height:100px ;
+    }
+    .nm{
+        padding: 0px 10px;
+        margin: 0px 0px 0px -252px;
+        font-size: 40px;
+    }
+    .oo{
+        margin: 0px 11px;
+        width: 1292px;
+    }
+    .صص{
+        font-size: 36px; 
+    }
+    .كك{
+        font-size: 46px;
+    }
+    .اا{
+        font-size: 36px;
+    }
+    .www{
+    
+        text-decoration: none;
+        padding-left: 30px;
+        color: white;
+        font-size: 36px;
+        transition: 0.4s;
+    }
+    
+    .www:hover{
+        color: deepskyblue;
+}
+}

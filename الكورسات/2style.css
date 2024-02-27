@@ -1,0 +1,375 @@
+
+*{
+    margin: 0%;
+    scroll-behavior: smooth;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px ;
+    box-shadow: 0px 0px 17px black;
+}
+
+/* .oo a{
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 26px;
+    color: white;
+    transition:0.4s ;
+}
+.oo a:hover{
+    color: blue;
+    
+} */
+
+.اا{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.اا:hover{
+    color: deepskyblue;
+}
+
+.صص{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.صص:hover{
+    color: deepskyblue;
+}
+
+.كك{
+    text-decoration: none;
+    padding-left: 30px;
+    color: deepskyblue;
+    font-size: 26px;
+}
+
+.main{
+    background: rgb(15, 15, 153);
+    padding: 66px 0px;
+}
+
+.omar{
+    /* padding: 96px 105px; */
+    margin: -745px 9px -16px 19px;
+}
+
+.zz{ 
+    width: 333px;
+    height:183px;
+    border: 4px solid black;
+    box-shadow: 0px 5px 25px black;
+    border-radius: 30px;
+}
+
+.xx{
+    width: 333px; ;
+    height:183px ;
+    border: 4px solid black;
+    box-shadow: 0px 5px 25px black;
+    border-radius: 30px;
+}
+
+.cc{
+    width: 333px; ;
+    height:183px ;
+    border: 4px solid black;
+    box-shadow: 0px 5px 25px black;
+    border-radius: 30px;
+}
+
+.qq{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 7px 34px;
+    margin: 0px 15px;
+    transition: 0.9s;
+    transform: scale(1.1);
+}
+
+.qq:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+.ww{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding:7px 34px;
+    margin: 5px 8px;
+    margin: 35px;
+    transition: 0.9s;
+}
+
+.ww:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+
+.ee{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 7px 34px;
+    margin: 0px 15px;
+    transition: 0.9s;
+}
+
+.ee:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+
+.rr{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 7px 34px;
+    margin: 35px;
+    transition: 0.9s;
+}
+
+.rr:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+
+.tt{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 7px 34px;
+    margin: 0px 15px;
+    transition: 0.9s;
+}
+
+.tt:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+
+.yy{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 7px 34px;
+    margin: 35px;
+    transition: 0.9s;
+}
+
+.yy:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+}
+
+.kk{
+    margin: -59px 0px 98px 602px;
+    width: 404px;
+    height: 742px;
+}
+
+.trois{
+    /* padding: 18px 200px; */
+    background-color: white;
+}
+
+.small{
+    color: black;
+    margin: 0px 168px;
+    font-family: 'Lalezar', system-ui;
+}
+.sma{
+    color: black;
+    margin: 17px 374px -14px;
+    font-family: 'Lalezar', system-ui;
+}
+
+.ou{
+    text-align: center;
+    margin: 196px 29px -196px 57px;
+    color: white;
+    font-size: 35px;
+    font-family: 'Lemonada', cursive;
+}
+
+.om{
+    margin: 220px 56px ;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    font-size: 17px;
+}
+
+.on{
+    margin: -211px 421px -306px;
+    font-family: 'Lemonada', cursive;
+    font-size: 17px;
+}
+
+.nm{
+    color: white;
+    padding: 0px 9px 0px 490px;
+    text-decoration: none;
+    font-size: 23px;
+}
+.lin{
+font-weight: bold;
+}
+
+
+
+@media (max-width:1023px) {
+
+
+    header{
+        height:100px ;
+    }
+    .nm{
+        padding:  9px 0px 490px;
+        margin: 0px 0px 0px -252px;
+        font-size: 40px;
+    }
+    .oo{
+        margin: 0px 11px;
+        width: 1292px;
+    }
+    .صص{
+        font-size: 36px; 
+    }
+    .كك{
+        font-size: 46px;
+    }
+    .اا{
+        font-size: 36px;
+    }
+
+/* السيكشن الاول */
+    .main{
+        width: 141%;
+    height: 4935px;
+}
+    .ou{
+        font-size:94px ;
+    }
+     
+
+   .om {
+        font-size: 60px;
+   }
+    .on{
+        font-size: 60px;
+        margin-right: 0px;
+        margin-left: 432px;
+    }
+    .kk{
+        width: 1328px;
+        margin: 202px 10px 275px;
+        height: 2243px;
+    }
+
+    .omar{
+        margin: -273px 481px 84px
+    }
+    .zz{
+        width: 733px;
+        height: 505px;
+        margin: 68px -181px;
+    }
+    /* .qq{
+        padding: 18px 61px;
+    font-size: 54px;
+    margin: -14px 222px;
+    }
+    .ww{
+        padding: 18px 61px;
+    font-size: 54px;
+    } */
+    .xx{
+        width: 733px;
+        height: 505px;
+        margin: 68px -181px;
+    }
+    .cc{
+        width: 733px;
+        height: 505px;
+        margin: 68px -181px;
+    }
+
+    .qq{
+        padding: 24px 68px;
+    }
+    .ww{
+        padding: 22px 47px;
+    }
+    .ee{
+        padding: 24px 68px;
+    }
+    .rr{
+       padding: 22px 47px;
+    }
+    .tt{
+        padding: 24px 68px;
+    }
+    .yy{
+        padding: 22px 47px;
+    }
+
+
+    /* السيكشن الخامس  الاخير */
+.trois{
+   background-color: white;
+   height: 306px;
+}
+.small {
+    color: black;
+    margin: 0px 168px;
+    font-family: 'Lalezar', system-ui;
+}
+.sma{
+    color: black;
+    margin: 17px 374px -14px;
+    font-family: 'Lalezar', system-ui;
+}
+.lin{
+    font-size: 37px;
+    font-weight: bold;
+}
+}
